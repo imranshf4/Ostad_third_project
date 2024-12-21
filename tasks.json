@@ -2,5 +2,9 @@
     {
         "task": "task1",
         "done": false
+    },
+    {
+        "task": "Task 2",
+        "done": false
     }
 ]
